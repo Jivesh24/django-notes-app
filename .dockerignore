@@ -1,0 +1,3 @@
+# Ignore local MySQL data
+data/
+*.db
